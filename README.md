@@ -1,5 +1,5 @@
 <h2  align="center">External-Server-Info</h2>
-<p  align="center">An utility to help to get info about other MC servers</p>
+<p  align="center">An utility that helps get info about other MC servers</p>
 
 <br/>
 
